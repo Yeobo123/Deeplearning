@@ -1,4 +1,5 @@
-⭐ Phân Loại Sao bằng Machine Learning
+# ⭐ Phân Loại Sao bằng Machine Learning
+
 Dự án này áp dụng các thuật toán học máy (Machine Learning) cơ bản để phân loại các loại sao dựa trên các đặc trưng vật lý như nhiệt độ, bán kính, độ sáng, màu sắc,...
 
 📁 Cấu trúc thư mục
